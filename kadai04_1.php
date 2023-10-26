@@ -1,7 +1,7 @@
 <?php
 
 // TODO：kadai03_resource.phpファイル読み込み
-
+  echo 'resource '; 
 
 ?>
 <!DOCTYPE html>
